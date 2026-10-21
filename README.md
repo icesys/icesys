@@ -3,7 +3,6 @@
 ice@icesys ──────────────────────────────────────────────── 
 . Role:          Electronics & Embedded Systems Engineer
 . Focus:         Embedded Systems, Microcontrollers, PCB design, robotics
-. Location:      Algiers, Algeria
 
 - Languages ───────────────────────────────────────────────
 . Programming:   C/C++, MicroPython
@@ -25,9 +24,6 @@ ice@icesys ───────────────────────
 
 - Projects ────────────────────────────────────────────────
 . fire_patrol_autonomous_robot     C++
-
-- Contact ─────────────────────────────────────────────────
-. Email:         your-email@example.com
 ```
 
 <p align="center">
