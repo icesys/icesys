@@ -1,3 +1,6 @@
+<h1 align="center">ice. · icesys</h1>
+
+```text
 ice@icesys ──────────────────────────────────────────────
 . OS:                    Arch Linux, Windows
 . Host:                  Electronics Engineering, Algiers
@@ -22,3 +25,4 @@ ice@icesys ───────────────────────
 . Email:                 your-email@example.com
 . LinkedIn:              tsongodzaevidence
 . YouTube:               de minimum tech
+```
