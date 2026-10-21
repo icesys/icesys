@@ -27,7 +27,7 @@ ice@icesys ───────────────────────
 ```
 
 <p align="center">
-  <img height="150" src="ice_ascii.png" />
+  <img height="150" src="ice_ascii.jpeg" />
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=icesys&show_icons=true&theme=dark&hide_border=true&card_width=400" alt="GitHub stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icesys&layout=compact&theme=dark&hide_border=true&card_width=300" alt="Top languages" />
 </p>
