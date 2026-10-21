@@ -1,16 +1,24 @@
-## Hi there 👋
+ice@icesys ──────────────────────────────────────────────
+. OS:                    Arch Linux, Windows
+. Host:                  Electronics Engineering, Algiers
+. Kernel:                Embedded Systems
+. IDE:                   PlatformIO, VS Code
 
-<!--
-**icesys/icesys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+. Languages.Programming: C, C++, JavaScript
+. Languages.Real:        English, French
 
-Here are some ideas to get you started:
+. Tools.Hardware:        ESP32, KiCad, FreeCAD
+. Tools.Software:        GNU Octave, Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+. Hobbies.Hardware:      PCB design, robotics, smart hardware
+. Hobbies.Software:      Linux theming, app building
+. Hobbies.Other:         Music, video production, tech reviews
+
+- Projects ───────────────────────────────────────────────
+. fire_patrol_autonomous_robot    C++
+. iceRise                         React / Vite / Electron
+
+- Contact ────────────────────────────────────────────────
+. Email:                 your-email@example.com
+. LinkedIn:              tsongodzaevidence
+. YouTube:               de minimum tech
