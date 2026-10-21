@@ -1,28 +1,34 @@
-<h1 align="center">ice. · icesys</h1>
+ice@icesys ────────────────────────────────────────────────
+. Role:          Electronics & Embedded Systems Engineer
+. Focus:         Microcontrollers, PCB design, robotics, smart hardware
+. Location:      Algiers, Algeria
 
-```text
-ice@icesys ──────────────────────────────────────────────
-. OS:                    Arch Linux, Windows
-. Host:                  Electronics Engineering, Algiers
-. Kernel:                Embedded Systems
-. IDE:                   PlatformIO, VS Code
+- Languages ───────────────────────────────────────────────
+. Programming:   C, C++, JavaScript
+. Assembly:      8085 (GNUSim8085)
+. Spoken:        English, French
 
-. Languages.Programming: C, C++, JavaScript
-. Languages.Real:        English, French
+- Embedded ────────────────────────────────────────────────
+. MCUs:          ESP32
+. Framework:     PlatformIO
+. Practice:      Firmware development, peripheral interfacing
 
-. Tools.Hardware:        ESP32, KiCad, FreeCAD
-. Tools.Software:        GNU Octave, Git, Linux
+- Hardware Design ─────────────────────────────────────────
+. PCB / EDA:     KiCad, Altium Designer
+. Simulation:    Proteus, GNU Octave
+. Mechanical:    FreeCAD
 
-. Hobbies.Hardware:      PCB design, robotics, smart hardware
-. Hobbies.Software:      Linux theming, app building
-. Hobbies.Other:         Music, video production, tech reviews
+- Tooling ─────────────────────────────────────────────────
+. Dev:           VS Code, Git, GitHub, Linux (Arch)
 
-- Projects ───────────────────────────────────────────────
-. fire_patrol_autonomous_robot    C++
-. iceRise                         React / Vite / Electron
+- Learning ────────────────────────────────────────────────
+. Next:          STM32, FreeRTOS, I2C / SPI / UART, CAN
 
-- Contact ────────────────────────────────────────────────
-. Email:                 your-email@example.com
-. LinkedIn:              tsongodzaevidence
-. YouTube:               de minimum tech
-```
+- Projects ────────────────────────────────────────────────
+. fire_patrol_autonomous_robot     C++
+. iceRise                          React / Vite / Electron
+
+- Contact ─────────────────────────────────────────────────
+. Email:         your-email@example.com
+. LinkedIn:      tsongodzaevidence
+. YouTube:       de minimum tech
