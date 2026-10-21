@@ -2,7 +2,7 @@
 ```text
 ice@icesys ──────────────────────────────────────────────── 
 . Role:          Electronics & Embedded Systems Engineer
-. Focus:         Microcontrollers, PCB design, robotics, smart hardware
+. Focus:         Embedded Systems, Microcontrollers, PCB design, robotics
 . Location:      Algiers, Algeria
 
 - Languages ───────────────────────────────────────────────
@@ -10,7 +10,7 @@ ice@icesys ───────────────────────
 . Spoken:        English, French
 
 - Embedded ────────────────────────────────────────────────
-. MCUs:          ESP32
+. MCUs:          ESP32, Arduino
 . Framework:     PlatformIO
 . Practice:      Firmware development, peripheral interfacing
 
@@ -23,17 +23,11 @@ ice@icesys ───────────────────────
 - Tooling ─────────────────────────────────────────────────
 . Dev:           VS Code, Git, GitHub, Linux (Arch)
 
-- Learning ────────────────────────────────────────────────
-. Next:          STM32, FreeRTOS, I2C / SPI / UART, CAN
-
 - Projects ────────────────────────────────────────────────
 . fire_patrol_autonomous_robot     C++
-. iceRise                          React / Vite / Electron
 
 - Contact ─────────────────────────────────────────────────
 . Email:         your-email@example.com
-. LinkedIn:      tsongodzaevidence
-. YouTube:       de minimum tech
 ```
 
 <p align="center">
