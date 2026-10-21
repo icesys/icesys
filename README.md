@@ -1,6 +1,3 @@
-<h1 align="center">ice. · icesys</h1>
-<p align="center">Electronics & Embedded Systems Engineer · Algiers, Algeria</p>
-
 ```text
 ice@icesys ────────────────────────────────────────────────
 . Role:          Electronics & Embedded Systems Engineer
