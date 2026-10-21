@@ -1,6 +1,6 @@
-<h2>ice@icesys ────────────────────────────────────────────────</h2> 
 
 ```text
+<h2>ice@icesys ────────────────────────────────────────────────</h2> 
 . Role:          Electronics & Embedded Systems Engineer
 . Focus:         Microcontrollers, PCB design, robotics, smart hardware
 . Location:      Algiers, Algeria
