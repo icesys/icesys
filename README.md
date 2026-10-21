@@ -6,8 +6,7 @@ ice@icesys ───────────────────────
 . Location:      Algiers, Algeria
 
 - Languages ───────────────────────────────────────────────
-. Programming:   C, C++, JavaScript
-. Assembly:      8085 (GNUSim8085)
+. Programming:   C/C++, MicroPython
 . Spoken:        English, French
 
 - Embedded ────────────────────────────────────────────────
@@ -17,6 +16,7 @@ ice@icesys ───────────────────────
 
 - Hardware Design ─────────────────────────────────────────
 . PCB / EDA:     KiCad, Altium Designer
+. Assembly:      8085 (GNUSim8085)
 . Simulation:    Proteus, GNU Octave
 . Mechanical:    FreeCAD
 
