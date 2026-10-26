@@ -24,6 +24,7 @@ ice@icesys ───────────────────────
 
 - Projects ────────────────────────────────────────────────
 . fire_patrol_autonomous_robot     C++
+. smart attendance system          C++
 ```
 
 <p align="center">
